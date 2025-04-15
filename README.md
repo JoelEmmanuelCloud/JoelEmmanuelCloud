@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on **nSight Conversational AI & an E-Hailing System** 🚖
-- 🌱 Learning **AWS Lambda, Strapi, Twilio Flex, and Vue.js**
+- 🌱 Learning **AWS Lambda, Strapi, Twilio Flex, and Microsoft Azure**
 - ⚡ Fun fact: I love building **ride-matching algorithms** & optimizing cloud deployments ☁️
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joel-emmanuel-149708202?) | [Twitter](https://x.com/joelCloud899799?t=3fMOywH6LhvDNx8Jcq9ecQ&s=08)
 
