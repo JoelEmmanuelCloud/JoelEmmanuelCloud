@@ -1,5 +1,5 @@
 ## 🚀 Hi, I'm Joel!
-### Full-Stack Developer | AI/LM | Cloud Enthusiast | Open Source Contributor
+### SoftWare Enginer | AI/LM | Cloud Enthusiast | Open Source Contributor
 
 👋 Welcome to my GitHub profile! I'm passionate about building scalable applications, integrating cloud technologies, and working on AI-powered chatbots.
 
