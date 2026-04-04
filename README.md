@@ -1,6 +1,6 @@
 ## Hi, I’m Joel 👋
 
-CTO & Co-founder of **Avigate**.
+Building **Avigate**.
 
 Software Engineer focused on building reliable products and scalable systems.
 
