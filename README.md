@@ -72,12 +72,8 @@ More on **[my portfolio](https://www.joelemmanuel.dev/)**.
 
 <div align="center">
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelEmmanuelCloud&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelEmmanuelCloud&layout=compact&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
+![GitHub followers](https://img.shields.io/github/followers/JoelEmmanuelCloud?style=flat-square&logo=github&label=followers)
+![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JoelEmmanuelCloud&label=public%20repos&query=public_repos&style=flat-square&logo=github)
 
 [![Portfolio](https://img.shields.io/badge/joelemmanuel.dev-visit-black?style=for-the-badge)](https://www.joelemmanuel.dev/)
 
