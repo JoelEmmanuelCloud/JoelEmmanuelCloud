@@ -73,7 +73,6 @@ More on **[my portfolio](https://www.joelemmanuel.dev/)**.
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/JoelEmmanuelCloud?style=flat-square&logo=github&label=followers)
-![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JoelEmmanuelCloud&label=public%20repos&query=public_repos&style=flat-square&logo=github)
 
 [![Portfolio](https://img.shields.io/badge/joelemmanuel.dev-visit-black?style=for-the-badge)](https://www.joelemmanuel.dev/)
 
